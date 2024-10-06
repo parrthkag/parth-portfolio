@@ -3,7 +3,7 @@ import {Nav}  from "./componenet/Nav";
 import {Hero}  from "./componenet/Hero";
 import { About } from "./componenet/About";
 import { Technologies } from "./componenet/technologies";
-import { Project } from "./componenet/project";
+import { Project } from "./componenet/Project";
 import { Contact } from "./componenet/Contact";
 
 
