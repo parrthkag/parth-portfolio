@@ -1,3 +1,0 @@
-There are 12 towns grouped into four zones with three towns per zone. It is intended to connect the towns with a telephone lines such that every two towns are connected with three direct lines if they belong to the same zone, and with only one direct line otherwise.
-
-How many direct telephone lines are required?
