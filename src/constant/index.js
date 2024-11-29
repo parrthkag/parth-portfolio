@@ -1,7 +1,7 @@
 import apex from "../assets/projects/apex.png";
 import food from "../assets/projects/food.png";
 import parthk from "../assets/portfolio.png";
-import ecomm from "../assets/e-com.png"
+import jobportal from "../assets/Homepage.png"
 
 export const HERO_CONTENT =' I am a dedicated full stack developer with a passion for building efficient, scalable, and user-centric web applications. With over 2 years of practical experience, I have mastered front-end technologies such as HTML, CSS, JavaScript, and React.js, while also developing strong expertise in back-end technologies like SpringBoot, MySQL, and MongoDB. I thrive on solving complex problems and delivering seamless digital experiences.';
 
@@ -31,10 +31,10 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "React", "Tailwind"],
   },
   {
-    title: "E-Commerce website (Currently working)",
-    image: ecomm,
+    title: "Job portal (Currently working)",
+    image: jobportal,
     description:
-      "This e-commerce platform lets users browse, search, and purchase products online with a responsive, user-friendly design for both mobile and desktop. Key features include product listings, detailed product pages, cart management, secure checkout, and user authentication for a seamless shopping experience.",
+      "JobConnect is a dynamic job portal built using React, Tailwind CSS, Spring Boot, and MongoDB. Designed to simplify the hiring process, it features an intuitive UI for job seekers to explore opportunities and employers to post vacancies. The platform bridges the gap between talent and recruiters, enabling effortless job applications and talent discovery",
     technologies: ["React", "Tailwind","Spring Boot","Mongodb"],
   },
 
@@ -44,5 +44,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "101, Ashirwad nagar Dhamnod ,Dhar (M.P)",
   phoneNo: "+91 898-242-6919 ",
-  email: "kagparth1594@gmail.com",
+  email: "parthkag1593@gmail.com",
 };
